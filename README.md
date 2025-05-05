@@ -2,7 +2,7 @@
 **nihilistparth/nihilistparth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Parth Tusham</h1>
+<h1 align="center">Hi, I'm Parth Tusham</h1>
 <h3 align="center">MSCS @ Texas A&M | Ex-Cohesity, OnePlus | Systems & Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihilistparth&label=Profile%20views&color=0e75b6&style=flat" alt="nihilistparth" /> </p>
@@ -11,7 +11,7 @@
 - 🔍 Exploring the intersection of **systems programming, security tooling, and performance optimization**
 - 💼 Previously interned at **Cohesity** (Cloud Monitoring Platform) and **OnePlus** (Adversarial ML Evaluation)
 - 💬 Ask me about: **Sockets, Low-level Networking, OS Internals, Malware Reverse Engineering**
-- 📫 Reach me at: **parth.tusham@tamu.edu**
+- 📫 Reach me at: **parthtusham@tamu.edu**
 - ⚡ Fun fact: I play the guitar and enjoy composing intros with counterpoint and classical influence 🎸
 
 <h3 align="left">📄 Publications:</h3>
