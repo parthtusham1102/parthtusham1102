@@ -1,11 +1,11 @@
 <!--
-**nihilistparth/nihilistparth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**parthtusham1102/parthtusham1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi, I'm Parth Tusham</h1>
 <h3 align="center">MSCS @ Texas A&M | Ex-Cohesity, OnePlus | Systems & Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihilistparth&label=Profile%20views&color=0e75b6&style=flat" alt="nihilistparth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthtusham1102&label=Profile%20views&color=0e75b6&style=flat" alt="parthtusham1102" /> </p>
 
 - 🌱 Currently diving deep into **Distributed Systems, Malware Analysis, and Reverse Engineering**
 - 🔍 Exploring the intersection of **systems programming, security tooling, and performance optimization**
@@ -24,9 +24,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-tusham-40272b1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthtusham" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/parthtushama7x" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nihilistparth" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parthtusham1102" height="30" width="40" />
 </a>
-<a href="https://github.com/parthtusham1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nihilistparth" height="30" width="40" /></a>
+<a href="https://github.com/parthtusham1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="parthtusham1102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,6 +44,6 @@
   <a href="https://rubyonrails.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihilistparth&show_icons=true&theme=dark&locale=en&layout=compact" alt="nihilistparth" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthtusham1102&show_icons=true&theme=dark&locale=en&layout=compact" alt="parthtusham1102" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihilistparth&show_icons=true&theme=dark&locale=en" alt="nihilistparth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthtusham1102&show_icons=true&theme=dark&locale=en" alt="parthtusham1102" /></p>
